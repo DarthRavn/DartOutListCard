@@ -6,6 +6,9 @@ Viennent ensuite les sorties commençant par 2 simples (ou 1 sur les sorties à 
 Si des erreurs subsistent vous pouvez me contacter !
 Le format est fait pour le jeux, vous pouvez les imprimer et les découper
 
+**Merci à [The Darts Box](https://www.youtube.com/@thedartsbox) pour ses conseils.**  
+les cartes sont en cours d'amélioration (choix de sorties, limitations du nombre)
+
 ## idées de jeux
 
 ### Jeux solo
